@@ -1,5 +1,5 @@
 The goal of this project is to perform object tracking of objects in a video. 
-We will use [this](link) traffic video as input for the object tracking.
+We will use [this](https://drive.google.com/file/d/1YDa0_kFIOYrC9408sP_mL2ammKHvMQVu/view?usp=sharing) traffic video as input for the object tracking.
 
 Tracking is a two step process-
 1. Object detection where we classify and localize objects in an image.  For the task of object we use pretrained [YOLOv5 weights](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s.pt)
@@ -35,6 +35,8 @@ In DeepSORT (Deep Simple Online Realtime Tracking) has these four major steps-
 
 2. For each detected object there is a localizing bounding box, a class label, unique id assigned by tracker, and confidence score of detection.
 
+
+Output video can be viewed [here](https://drive.google.com/file/d/1xIQ8TjHUZMdl8hBhwhiJyp4EL0zEX9ub/view?usp=sharing)
 
 
 
