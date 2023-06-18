@@ -7,7 +7,7 @@ Tracking is a two step process-
 2. Assigning ID to objects by temporally tracking them across frames. For tracking and ID assignment we use [DeepSORT](https://pypi.org/project/deep-sort-realtime/) algorithm.
 
 **__DeepSORT Algorithm__** <br>
-In DeepSORT (Deep Simple Online Realtime Tracking) has these four major steps-
+DeepSORT (Deep Simple Online Realtime Tracking) has these four major steps-
 
 `Object detection`: Initially, an object detection algorithm is used to detect and localize objects of interest in each frame of a video.
 
