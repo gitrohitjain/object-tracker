@@ -20,8 +20,8 @@ In DeepSORT (Deep Simple Online Realtime Tracking) has these four major steps-
 
 **__How to run this code?__**
 1. Git clone this repo: `git clone https://github.com/gitrohitjain/object-tracker.git`
-2. Create a python environment: 'python -m venv workenv'
-3. Activate environment: `source workenv/bin/activate'
+2. Create a python environment: `python -m venv workenv`
+3. Activate environment: `source workenv/bin/activate`
 4. Install packages: `pip install -r requirements.txt`
 5. Update the paths for input video and to save the output.
 6. Run the script: `python detect_and_track.py`
