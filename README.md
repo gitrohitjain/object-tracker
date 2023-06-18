@@ -35,8 +35,9 @@ In DeepSORT (Deep Simple Online Realtime Tracking) has these four major steps-
 
 2. For each detected object there is a localizing bounding box, a class label, unique id assigned by tracker, and confidence score of detection.
 
+![](https://github.com/gitrohitjain/object-tracker/blob/master/out.gif)
 
-Output video can be viewed [here](https://drive.google.com/file/d/1xIQ8TjHUZMdl8hBhwhiJyp4EL0zEX9ub/view?usp=sharing)
+Full output video can be viewed [here](https://drive.google.com/file/d/1xIQ8TjHUZMdl8hBhwhiJyp4EL0zEX9ub/view?usp=sharing)
 
 
 
