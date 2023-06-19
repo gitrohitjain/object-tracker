@@ -2,7 +2,7 @@ The goal of this project is to perform object tracking of objects in a video.
 We will use [this](https://drive.google.com/file/d/1YDa0_kFIOYrC9408sP_mL2ammKHvMQVu/view?usp=sharing) traffic video as input for the object tracking.
 
 Tracking is a two step process-
-1. Object detection where we classify and localize objects in an image.  For the task of object we use pretrained [YOLOv5 weights](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s.pt)
+1. Object detection where we classify and localize objects in an image.  For the task of object detection we use pretrained [YOLOv5 weights](https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s.pt)
 
 2. Assigning ID to objects by temporally tracking them across frames. For tracking and ID assignment we use [DeepSORT](https://pypi.org/project/deep-sort-realtime/) algorithm.
 
